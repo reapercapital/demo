@@ -12,13 +12,7 @@
     "name": "typicode"
   },
       "Data":{
-        "Chart":[{
-            "Summary":"ceshi",
-            "Chart01":{
-                "ChartName":"ceshi",
-                "TotalNum":"null",
-                "Unit":"人",
-                "Data":[
+        "data":[
                     {
                         "year":"2013",
                         "number":31369,
@@ -55,7 +49,6 @@
                         "s":"2"
                     }
                 ]
-            }
-        }]
+       
     }
 }
