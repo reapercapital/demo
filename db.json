@@ -11,50 +11,24 @@
   "profile": {
     "name": "typicode"
   },
-      "Data":{
-        "Chart":[{
-            "Summary":"ceshi",
-            "Chart01":{
-                "ChartName":"ceshi",
-                "TotalNum":"null",
-                "Unit":"人",
-                "Data":[
-                    {
-                        "year":"2013",
-                        "number":31369,
-                        "s":"1"
-                    },
-                    {
-                        "year":"2014",
-                        "number":32453,
-                        "s":"1"
-                    },
-                    {
-                        "year":"2015",
-                        "number":33500,
-                        "s":"1"
-                    },
-                    {
-                        "year":"2016",
-                        "number":59470,
-                        "s":"1"
-                    },
-                    {
-                        "year":"2017",
-                        "number":16377,
-                        "s":"1"
-                    },
-                    {
-                        "year":"2018",
-                        "number":29089,
-                        "s":"1"
-                    },
-                    {
-                        "year":"2013",
-                        "number":11161,
-                        "s":"2"
-                    }
-                ]
+      "data":
+    [
+        {
+            "year": "2009",
+            "number": "68.9",
+            "s":"1"
+        },
+        {
+            "year": "2012",
+            "number": "67.1",
+            "s":"1"
+        },
+        {
+            "year": "2017",
+            "number": "57.7",
+            "s":"1"
+        }
+    ]
             }
         }]
     }
